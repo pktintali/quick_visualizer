@@ -4,7 +4,6 @@ import 'package:quick_visualizer/chart.dart';
 import 'package:quick_visualizer/bubbleSort.dart';
 import 'dart:math';
 import 'package:quick_visualizer/quickSort.dart';
-
 class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => _HomePageState();
