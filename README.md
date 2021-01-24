@@ -1,6 +1,5 @@
 # quick_visualizer
-
-A new Flutter project.
+A flutter project to visualize sorting time complexity.
 
 ## Getting Started
 

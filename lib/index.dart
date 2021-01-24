@@ -1,0 +1,12 @@
+export 'package:flutter/material.dart';
+export 'package:provider/provider.dart';
+export 'package:quick_visualizer/providers/SwitchData.dart';
+export 'package:quick_visualizer/widgets/AvgVSWorstSwitch.dart';
+export 'package:quick_visualizer/widgets/DisplayArrayWidget.dart';
+export 'package:quick_visualizer/widgets/Footer.dart';
+export 'package:quick_visualizer/widgets/GenerateAndSortRow.dart';
+export 'package:quick_visualizer/widgets/InputContainer.dart';
+export 'package:quick_visualizer/widgets/MasterGraphWidget.dart';
+export 'package:quick_visualizer/widgets/MyDropdown.dart';
+export 'package:quick_visualizer/widgets/ResetButton.dart';
+export 'package:quick_visualizer/widgets/XSortText.dart';
